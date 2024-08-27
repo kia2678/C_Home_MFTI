@@ -1,0 +1,80 @@
+File  temperature_big.csv  Statistics
+
+=========== for 2021 year =============
+average temperature for the year = 15.50
+minimum temperature for the year = 1
+maximum temperature for the year = 30
+=======================================
+
+------------- for 1 month -------------
+average temperature per month = 15.50
+minimum temperature per month = 1
+maximum temperature per month = 30
+---------------------------------------
+
+------------- for 2 month -------------
+average temperature per month = 15.50
+minimum temperature per month = 1
+maximum temperature per month = 30
+---------------------------------------
+
+------------- for 3 month -------------
+average temperature per month = 15.50
+minimum temperature per month = 1
+maximum temperature per month = 30
+---------------------------------------
+
+------------- for 4 month -------------
+average temperature per month = 15.50
+minimum temperature per month = 1
+maximum temperature per month = 30
+---------------------------------------
+
+------------- for 5 month -------------
+average temperature per month = 15.50
+minimum temperature per month = 1
+maximum temperature per month = 30
+---------------------------------------
+
+------------- for 6 month -------------
+average temperature per month = 15.50
+minimum temperature per month = 1
+maximum temperature per month = 30
+---------------------------------------
+
+------------- for 7 month -------------
+average temperature per month = 15.50
+minimum temperature per month = 1
+maximum temperature per month = 30
+---------------------------------------
+
+------------- for 8 month -------------
+average temperature per month = 15.50
+minimum temperature per month = 1
+maximum temperature per month = 30
+---------------------------------------
+
+------------- for 9 month -------------
+average temperature per month = 15.50
+minimum temperature per month = 1
+maximum temperature per month = 30
+---------------------------------------
+
+------------- for 10 month -------------
+average temperature per month = 15.50
+minimum temperature per month = 1
+maximum temperature per month = 30
+---------------------------------------
+
+------------- for 11 month -------------
+average temperature per month = 15.50
+minimum temperature per month = 1
+maximum temperature per month = 30
+---------------------------------------
+
+------------- for 12 month -------------
+average temperature per month = 15.50
+minimum temperature per month = 1
+maximum temperature per month = 30
+---------------------------------------
+

@@ -1,0 +1,4 @@
+File  temperature_big.csv
+Errors were found in the following lines:
+ 518401;
+Total errors 1
