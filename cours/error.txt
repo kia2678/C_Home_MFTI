@@ -1,4 +1,3 @@
-File  temperature_big.csv
-Errors were found in the following lines:
- 518401;
-Total errors 1
+File  temperature_test.csv
+
+Total errors 0
