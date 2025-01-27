@@ -23,7 +23,7 @@ int main()
 uint64_t findMaxBlock(list *head)
 {
     if(head == NULL)
-        return head;
+        return (uint64_)head;
     size_t max = 0;
     uint64_t addr = 0;
     list* find = head;
